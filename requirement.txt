@@ -1,0 +1,39 @@
+# Core LangChain packages
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+langchain-huggingface
+
+# LLM / Embeddings
+mistralai
+sentence-transformers
+
+# Vector database
+chromadb
+
+# Search tool
+tavily-python
+
+# Environment variables
+python-dotenv
+
+# Console output / debugging
+rich
+
+# API backend, optional but useful for agent apps
+fastapi
+uvicorn
+
+# Data validation
+pydantic
+
+# HTTP requests
+requests
+
+# Optional document loading / parsing
+beautifulsoup4
+pypdf
+
+# Optional notebook/testing
+ipykernel
